@@ -1,0 +1,21 @@
+html {
+  height: 100vh;
+  background: url(splash-backdrop.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'UnifrakturCook', cursive;
+  color: white;
+}
+
+#insult {
+  font-size: 72px;
+}
+
+.inner {
+  height: 40vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
